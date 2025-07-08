@@ -1,10 +1,10 @@
 ## Testfall 001 Create Contact v1.0
 
 Änderungsdatum: 13.01.2025 <br>
-Ersteller: Leandro Aepli <br>
+Ersteller: X <br>
 
 Ausführungsdatum: 10.01.2025 <br>
-Ausführende: Leandro Aepli <br>
+Ersteller: X <br>
 
 ### Beschreibung
 Beschreibt wie ein Kontakt erstellt wird.

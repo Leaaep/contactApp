@@ -1,4 +1,5 @@
 ### IntelliJ IDEA ###
+.idea
 .idea/workspace.xml
 out/
 data/

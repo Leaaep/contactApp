@@ -1,10 +1,10 @@
 ## Testfall 002 Create Additional Info v1.0
 
 Änderungsdatum: 10.01.2025 <br>
-Ersteller: Leandro Aepli <br>
+Ersteller: X <br>
 
 Ausführungsdatum: 10.01.2025 <br>
-Ausführende: Leandro Aepli <br>
+Ersteller: X <br>
 
 ### Beschreibung
 Beschreibt wie man zusätzliche Informationen zu einem bestehenden oder erstelltem Kontakt hinzufügen kann.

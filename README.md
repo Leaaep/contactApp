@@ -1,7 +1,7 @@
 # Contact App v0.12.0
 
 ## Author
-XLordPlatypus
+Leaaep
 
 ## Description
 Contact App programmed in Java for the school modules 320 and 322.

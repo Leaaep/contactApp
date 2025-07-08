@@ -1,10 +1,10 @@
 ## Testfall [ID] [NAME] v1.0
 
-Änderungsdatum: 10.01.2025 <br>
-Ersteller: Leandro Aepli <br>
+Änderungsdatum: DD.MM.YYYY <br>
+Ersteller: X <br>
 
 Ausführungsdatum: 10.01.2025 <br>
-Ausführende: Leandro Aepli <br>
+Ausführende: X <br>
 
 ### Beschreibung
 
